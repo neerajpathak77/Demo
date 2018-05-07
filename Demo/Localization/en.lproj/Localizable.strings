@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Demo
+
+  Created by neeraj on 07/05/18.
+  Copyright © 2018 neeraj. All rights reserved.
+*/
+
+//Internet error
+"Please connect to internet!!" = "Please connect to internet!!";
+
+//Data parsing error
+"Server responded curruped data";
+
+//"Alert title"
+"Result" = "Result";
+
+//"Alert button title"
+"OK" = "OK";
+
+//"Validation message"
+"Please enter first and last name!!" = "Please enter first and last name!!";
